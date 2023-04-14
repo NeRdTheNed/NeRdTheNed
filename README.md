@@ -2,7 +2,7 @@
 
 <p align="center">
     <picture>
-        <img src="https://raw.githubusercontent.com/NeRdTheNed/NeRdTheNed/main/face.png" alt="Low resolution pixel art of a face" style='width: 100%; object-fit: contain'/>
+        <img src="https://raw.githubusercontent.com/NeRdTheNed/NeRdTheNed/main/face.png" alt="Low resolution pixel art of a face" style='height: 100%; width: 100%; image-rendering: pixelated; object-fit: contain'/>
     </picture>
 </p>
 
