@@ -9,8 +9,8 @@
 I'm Ned Loynd, also known as NeRdTheNed / NedTheNeRd / NeRd (it's really hard to get that username!) on most platforms.
 
 - I'm a fan of C and Java, which I tend to write most of my projects in.
-- I also have some experience with C++, C#, JavaScript, and Python, although I use them less often. I've also worked with Java bytecode for some projects.
-- I generally use Gradle to build my Java projects with, and CMake or Make for C projects.
+- I also have some experience with C++, C#, JavaScript, and Python. I've also worked with Java bytecode for some projects.
+- I generally use Gradle to build Java projects with, and CMake or Make for C projects.
 - I mostly use macOS as my operating system, and have a fair amount of experience in adapting projects to its quirks.
 - I once aspired to write a full game engine in batch, although I tend to use bash scripts now.
 
