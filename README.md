@@ -1,6 +1,10 @@
 # Hey!
 
-![Low resolution pixel art of a face](face.png)
+<p align="center">
+    <picture>
+        <img src="https://raw.githubusercontent.com/NeRdTheNed/NeRdTheNed/main/face.png" alt="Low resolution pixel art of a face" style='width: 100%; object-fit: contain'/>
+    </picture>
+</p>
 
 I'm Ned Loynd, also known as NeRdTheNed / NedTheNeRd / NeRd (it's really hard to get that username!) on most platforms.
 
