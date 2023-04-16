@@ -24,7 +24,7 @@ I'm Ned Loynd, also known as NeRdTheNed / NedTheNeRd / NeRd (it's really hard to
 ### Minecraft mods
 
 - [More Bows: Restrung!](https://github.com/NeRdTheNed/More-bows) - A port of More Bows to 1.7.10 and above (1.7.10, 1.12.2, 1.17.1, 1.18.2, and 1.19.x)
-- [Punch2Prime](https://github.com/NeRdTheNed/Punch2Prime) - A one-mixin mod to use Mojang's emulation of pre-Beta 1.7 TNT
+- [Punch2Prime](https://github.com/NeRdTheNed/Punch2Prime) - A one-mixin mod to use Mojang's emulation of pre-Beta 1.7 TNT (1.8.9 Legacy Fabric, 1.14.x - 1.19.x Fabric / Quilt)
 - [ReciPic](https://github.com/NeRdTheNed/ReciPic) - A mod that generates images of Minecraft recipes at runtime (1.7.10)
 
 ### Other Minecraft-related projects
