@@ -21,6 +21,10 @@ I'm Ned Loynd, also known as NeRdTheNed / NedTheNeRd / NeRd (it's really hard to
 - [macrOS](https://github.com/NeRdTheNed/macrOS) - macOS macros (and utility functions)
 - [OSWrapper](https://github.com/NeRdTheNed/OSWrapper) - Single-header file C / C++ libraries for wrapping OS-specific functionality
 
+### Java libraries / programs
+
+- [JarTighten](https://github.com/NeRdTheNed/JarTighten) - Jar file size optimiser
+
 ### Minecraft mods
 
 - [More Bows: Restrung!](https://github.com/NeRdTheNed/More-bows) - A port of More Bows to 1.7.10 and above (1.7.10, 1.12.2, 1.17.1, 1.18.2, and 1.19.x)
