@@ -24,6 +24,7 @@ I'm Ned Loynd, also known as NeRdTheNed / NedTheNeRd / NeRd (it's really hard to
 ### Java libraries / programs
 
 - [JarTighten](https://github.com/NeRdTheNed/JarTighten) - Jar file size optimiser
+- [deft4j](https://github.com/NeRdTheNed/deft4j) - WIP deflate compression / optimisation toolkit for Java
 
 ### Minecraft mods
 
